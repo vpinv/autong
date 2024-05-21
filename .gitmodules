@@ -1,0 +1,6 @@
+[submodule "autong-parent"]
+	path = autong-parent
+	url = https://github.com/vpinv/autong-parent.git
+[submodule "autong-core"]
+	path = autong-core
+	url = https://github.com/vpinv/autong-core.git
